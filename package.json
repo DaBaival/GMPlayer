@@ -2,7 +2,7 @@
   "name": "云音乐",
   "version": "2.0",
   "author": "DaBaival",
-  "home": "https://baival.us.kg",
+  "home": "https://music.baival.fun",
   "github": "https://github.com/DaBaival/GMPlayer",
   "scripts": {
     "dev": "vite --host",
